@@ -1,0 +1,17 @@
+﻿  Building 'PassDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+E:\VS\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  Stamping ARM\Debug\PassDriver.inf
+  Stamping [Version] section with DriverVer=03/28/2022,15.11.18.469
+  driver.c
+E:\备份\必备\zhuomian\易语言\PassDriver-main\PassDriver\driver.c(80,28): warning C4305: “类型强制转换”: 从“ULONG64”到“PVOID”截断
+E:\备份\必备\zhuomian\易语言\PassDriver-main\PassDriver\driver.c(83,28): warning C4305: “类型强制转换”: 从“ULONG64”到“PVOID”截断
+E:\备份\必备\zhuomian\易语言\PassDriver-main\PassDriver\driver.c(86,28): warning C4305: “类型强制转换”: 从“ULONG64”到“PVOID”截断
+E:\备份\必备\zhuomian\易语言\PassDriver-main\PassDriver\driver.c(55,66): warning C4100: “RegistryPath”: 未引用的形参
+E:\备份\必备\zhuomian\易语言\PassDriver-main\PassDriver\driver.c(55,37): warning C4100: “DriverObjct”: 未引用的形参
+  正在生成代码
+  已完成代码的生成
+  PassDriver.vcxproj -> E:\备份\必备\zhuomian\易语言\PassDriver-main\123\PassDriver.sys
+  Done Adding Additional Store
+  Successfully signed: E:\\\zhuomian\\PassDriver-main\123\PassDriver.sys
+  
+  Driver is 'Universal'.
